@@ -1,0 +1,15 @@
+Author: Keshav Narula 101224607
+
+
+To run first install the dependencies in package.json by executing:
+  >npm install
+
+Then run:
+  >node .\server.js
+
+To see the "app" version use your browser to visit any:
+http://localhost:3000/mytunes.html
+http://localhost:3000/mytunes
+http://localhost:3000/index.html
+http://localhost:3000/
+http://localhost:3000
