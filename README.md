@@ -1,4 +1,4 @@
-# Itunes RESTful API Music Playlist 
+# Music Playlist using Itunes API and Express.js
 Author: Keshav Narula 
 
 The purpose of this project is to build a Music playlist node.js application that accesses a public HTTP-based Itunes API that serves JSON, and uses the express.js framework. The components are, Server build with Node.js and the Express.js framework, Public iTunes JSON API, Client-side application page served by the server.
