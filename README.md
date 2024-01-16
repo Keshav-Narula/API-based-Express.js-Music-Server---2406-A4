@@ -1,4 +1,4 @@
-# Music Playlist using Itunes API and Express.js Project
+# Music Playlist App using Itunes API and Express.js Project
 Author: Keshav Narula 
 
 The purpose of this project was to build a GUI and backend for a web music playlist full stack app, using node.js, express, javascript, and utilizing the Public iTunes JSON API on the backend, and HTML and CSS on the frontnend.  with fucntionality to add, remove and shift songs in an online playlist application.
